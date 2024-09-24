@@ -4,6 +4,13 @@ import {
   SafeAreaView,
   StyleSheet,
 } from 'react-native';
+const Data = [
+  {name: 'Manjeet', id: '1'},
+  {name: 'Yubraj', id: '3'},
+  {name: 'Lopsang', id: '2'},
+  {name: 'Bhoos', id: '4'},
+  {name: 'Sabin', id: '5'},
+]
 
 
 function App(): React.JSX.Element {
